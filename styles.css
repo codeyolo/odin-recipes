@@ -1,4 +1,12 @@
+img {
+    height: auto;
+    width: 350px;
+}
+
 * {
     color: white;
     background-color: rgb(246, 111, 0);
+    font-size: large;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
 }
